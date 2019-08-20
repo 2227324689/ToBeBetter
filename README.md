@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 English | [简体中文](#)
 
-![1566299350462](README.assets/1566299350462.png)
+<p align="center"><img width="350" src="README.assets/1566299350462.png"></p>
 
 <p align="center"><img src="https://img.shields.io/apm/l/vim-mode"; alt="License"><img src="https://img.shields.io/bitbucket/issues-raw/2227324689/ToBeBetter" alt="Issues"><img src="https://img.shields.io/badge/contract%20us-%E5%AE%98%E7%BD%91-brightgreen"; alt="contract us"><img src="https://img.shields.io/badge/origin-%E5%92%95%E6%B3%A1%E5%AD%A6%E9%99%A2-yellowgreen" alt="origin"><img src="https://img.shields.io/badge/blog-%E5%8D%9A%E5%AE%A2-orange" alt="blog"><img src="https://img.shields.io/badge/author-Mic-blue" alt="author"></p>
 <h2 align="center">Java高级面试真题分析指南</h2>
