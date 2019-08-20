@@ -1,17 +1,14 @@
 English | [简体中文](#)
 
 <p align="center"><img width="350" src="README.assets/1566299350462.png"></p>
-
 <p align="center"><img src="https://img.shields.io/apm/l/vim-mode"; alt="License">&nbsp;<img src="https://img.shields.io/bitbucket/issues-raw/2227324689/ToBeBetter" alt="Issues">&nbsp;<img src="https://img.shields.io/badge/contract%20us-%E5%AE%98%E7%BD%91-brightgreen"; alt="contract us">&nbsp;<img src="https://img.shields.io/badge/origin-%E5%92%95%E6%B3%A1%E5%AD%A6%E9%99%A2-yellowgreen" alt="origin">&nbsp;<img src="https://img.shields.io/badge/blog-%E5%8D%9A%E5%AE%A2-orange" alt="blog">&nbsp;<img src="https://img.shields.io/badge/author-Mic-blue" alt="author"></p>
 <h2 align="center">Java高级面试真题分析指南</h2>
 <p align="center" style="color:rgb(240,132,0)"><b>咕泡学院-Mic</b></p>
-
 "一看就懂，一学就会，一面试就懵逼"。 面试过程中，遇到大部分问题的状态是:"这个问题，我好像在那篇博客上看到过"，绞尽脑汁也想不出来。回家用度娘一查，“卧槽，这么简单”。被面试官打击之后，总觉得要做点啥才能安抚一下内心的疼痛感以及自尊心被碾压的那种痛楚。所以面试有一个好处，能够让人产生至少一周热情高涨的学习欲望，这种欲望会促使你去买几本书、买几套视频。那时候的整个人的状态是充满正能量、充满斗志的(就算有个美女躺在你身边，也能做到无动于衷)。
 
 新书到了，沐浴焚香，抱着非常虔诚的心态打开这本能够改写自己命运的书籍开始认真拜读。“第一章，嗯，不错，还看得懂。第二章，有点难度，勉勉强强，第三章，不错，就只有两个地方不懂：这也不懂，那也不懂”。到了看书的时候才发现，自己原来是不失眠的。也只有到了看书的时候才会发现，自己的技术基础没有想象中那么好。合上书本之后，脑袋一团浆糊
 
 <p align="center"><img width="300" src="README.assets/timg.jpg"></p>
-
 
 
 技术这个领域，它从来都不是独立存在，而这些关联性，如果不是特别清楚，就很容易导致对于书本上的某些内容无法理解。“基础到底怎么补呢？”。嗯，打开qq找到 "Java技术交流群",  “求大佬推荐Java基础进阶这块的书籍”，当然会有热心的同学出来给你解答，不过没有太多建设性的建议，于是你的提问变成了激荡整个群活跃度的石子。从技术的提升，讨论到面试，再到吐槽公司，吐槽面试官，最后聊到薪资。本来由于看技术书带来的那种疲倦感和对于技术问题的理解过于困难所带来的压抑感在这场轻松愉快的吐槽和扯淡中得到了完美的释放。那些在面试过程中遇到的挫折和对自尊心碾压带来的痛楚，也因为这场"轻松愉快"的交流得到了缓解。
@@ -48,9 +45,9 @@ English | [简体中文](#)
     - [ConcurrentHashMap面试题](#ConcurrentHashMap面试题)
     - [常用集合面试题](#常用集合面试题)
 - [分布式微服务](#分布式微服务)
-    - [分布式微服务面试题](#基础)
-    - [SpringCloud Netflix面试题](#SpringCloud Netflix面试题)
-    - [SpringCloud Alibaba面试题](#SpringCloud Netflix面试题)
+    - [分布式微服务面试题](#分布式微服务面试题)
+    - [SpringCloud Netflix面试题](#SpringCloudNetflix面试题)
+    - [SpringCloud Alibaba面试题](#SpringCloudNetflix面试题)
 - [分布式高并发](#分布式高并发)
     - [Redis缓存面试题](#Redis缓存)
     - [Memcached面试题](#Memcached面试题)
