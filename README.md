@@ -61,8 +61,8 @@ English | [简体中文](#)
     
 - [分布式微服务](#分布式微服务)
     - [分布式微服务面试题](#基础)
-    - [Spring Cloud Netflix](#Spring Cloud Netflix)
-    - [Spring Cloud Alibaba](#Spring Cloud Alibaba)
+    - [Spring Cloud Netflix面试题](#Spring Cloud Netflix)
+    - [Spring Cloud Alibaba面试题](#Spring Cloud Alibaba)
 
 - [分布式高并发](#分布式高并发)
     - [Redis缓存面试题](#Redis缓存)
