@@ -1,3 +1,1 @@
-<p align="center"><img width="100" src="https://user-gold-cdn.xitu.io...;h=400&f=png&s=3451"></p>
-<p align="center"><img src="https://img.shields.io/circle...; alt="Build Status"><img src="https://img.shields.io/codeco...; alt="Coverage Status"><img src="https://img.shields.io/npm/dm...; alt="Downloads"><img src="https://img.shields.io/npm/v/...; alt="Version"><img src="https://img.shields.io/npm/l/...; alt="License"></p>
-<h2 align="center">ZARA - 下一代前端框架（主标题）</h2><p align="center">基于 Web Components 并支持 IE8（简单介绍）</p>
+
