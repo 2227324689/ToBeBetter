@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T07:49:00.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="_b4eaGUxETwH91_EenRS" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-22T08:22:08.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="rA4g4xnoeIZq3cVmiTeM" version="14.8.0" type="github">
   <diagram id="YUDJF-B7T9SWEaPQvbh9" name="Page-1">
     <mxGraphModel dx="1673" dy="987" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -433,6 +433,74 @@
         </mxCell>
         <mxCell id="S7qlVdXXwg5bewVFXKOm-67" value="&lt;font style=&quot;font-size: 14px&quot;&gt;线程池执行SocketProcessor，调用Http11Processor处理请求，Http11Processor通过NioSocketWrapper进行数据的读写&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=1;labelBackgroundColor=#ffffff;sketch=1;fontSize=16;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="827" y="176" width="299" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="S7qlVdXXwg5bewVFXKOm-68" value="1000W用户" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=1;labelBackgroundColor=none;sketch=1;fontSize=15;strokeWidth=1;fillColor=#f5f5f5;align=center;verticalAlign=middle;strokeColor=#666666;fontFamily=Comic Sans MS;labelBorderColor=none;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1686" y="39" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S7qlVdXXwg5bewVFXKOm-69" value="" style="endArrow=classic;html=1;shadow=1;dashed=1;fontFamily=Comic Sans MS;fontSize=15;startSize=6;endSize=6;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#666666;" edge="1" parent="1" source="S7qlVdXXwg5bewVFXKOm-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1876" y="107" as="sourcePoint" />
+            <mxPoint x="1926" y="69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S7qlVdXXwg5bewVFXKOm-71" value="2/8定律" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;fontColor=#666666;" vertex="1" connectable="0" parent="S7qlVdXXwg5bewVFXKOm-69">
+          <mxGeometry x="-0.3775" y="-2" relative="1" as="geometry">
+            <mxPoint x="19" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S7qlVdXXwg5bewVFXKOm-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;dashed=1;fontFamily=Comic Sans MS;fontSize=15;startArrow=none;startFill=0;startSize=6;endSize=6;strokeWidth=1;fontColor=#666666;" edge="1" parent="1" source="S7qlVdXXwg5bewVFXKOm-70" target="S7qlVdXXwg5bewVFXKOm-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S7qlVdXXwg5bewVFXKOm-76" value="每个用户50次点击" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;fontColor=#666666;" vertex="1" connectable="0" parent="S7qlVdXXwg5bewVFXKOm-75">
+          <mxGeometry x="-0.2363" y="-3" relative="1" as="geometry">
+            <mxPoint x="13" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S7qlVdXXwg5bewVFXKOm-70" value="每天20%用户访问，200W" style="whiteSpace=wrap;html=1;shadow=1;glass=1;labelBackgroundColor=none;sketch=1;fontFamily=Comic Sans MS;fontSize=15;strokeWidth=1;fillColor=#f5f5f5;align=center;verticalAlign=middle;strokeColor=#666666;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1925" y="39" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S7qlVdXXwg5bewVFXKOm-74" value="PV=1亿" style="whiteSpace=wrap;html=1;shadow=1;glass=1;labelBackgroundColor=none;sketch=1;fontFamily=Comic Sans MS;fontSize=15;strokeWidth=1;fillColor=#f5f5f5;align=center;verticalAlign=middle;strokeColor=#666666;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2239" y="39" width="120" height="60" as="geometry" />
+        </mxCell>
+        <object label="" 的="" id="S7qlVdXXwg5bewVFXKOm-80">
+          <mxCell style="rounded=1;sketch=1;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;dashed=1;fontFamily=Comic Sans MS;fontSize=15;startArrow=none;startFill=0;startSize=6;endSize=6;strokeWidth=1;fontColor=#666666;" edge="1" parent="1" source="S7qlVdXXwg5bewVFXKOm-77" target="S7qlVdXXwg5bewVFXKOm-79">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="S7qlVdXXwg5bewVFXKOm-82" value="24*20%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;fontColor=#666666;" vertex="1" connectable="0" parent="S7qlVdXXwg5bewVFXKOm-80">
+          <mxGeometry x="0.4284" y="-2" relative="1" as="geometry">
+            <mxPoint x="-26" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S7qlVdXXwg5bewVFXKOm-77" value="一天24小时，根据2/8定律，每天用户活跃时间为20%" style="whiteSpace=wrap;html=1;shadow=1;glass=1;labelBackgroundColor=none;sketch=1;fontFamily=Comic Sans MS;fontSize=15;strokeWidth=1;fillColor=#f5f5f5;align=center;verticalAlign=middle;strokeColor=#666666;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1686" y="186" width="158" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="S7qlVdXXwg5bewVFXKOm-83" value="" style="edgeStyle=none;sketch=1;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;dashed=1;fontFamily=Comic Sans MS;fontSize=15;startFill=0;startSize=6;endSize=6;strokeWidth=1;fontColor=#666666;" edge="1" parent="1" source="S7qlVdXXwg5bewVFXKOm-79" target="S7qlVdXXwg5bewVFXKOm-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S7qlVdXXwg5bewVFXKOm-79" value="大部分用户活跃时间集中在5小时以内" style="whiteSpace=wrap;html=1;shadow=1;glass=1;labelBackgroundColor=none;sketch=1;fontFamily=Comic Sans MS;fontSize=15;strokeWidth=1;fillColor=#f5f5f5;align=center;verticalAlign=middle;strokeColor=#666666;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1936" y="186" width="158" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="S7qlVdXXwg5bewVFXKOm-85" value="" style="edgeStyle=none;sketch=1;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;dashed=1;fontFamily=Comic Sans MS;fontSize=15;startFill=0;startSize=6;endSize=6;strokeWidth=1;fontColor=#666666;" edge="1" parent="1" source="S7qlVdXXwg5bewVFXKOm-81" target="S7qlVdXXwg5bewVFXKOm-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S7qlVdXXwg5bewVFXKOm-81" value="&lt;span&gt;大部分用户根据2/8定律表示80%&lt;br&gt;1亿PV*80%=8000W点击&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;shadow=1;glass=1;labelBackgroundColor=none;sketch=1;fontFamily=Comic Sans MS;fontSize=15;strokeWidth=1;fillColor=#f5f5f5;align=center;verticalAlign=middle;strokeColor=#666666;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2157" y="182" width="184" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="S7qlVdXXwg5bewVFXKOm-87" value="" style="edgeStyle=none;sketch=1;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;dashed=1;fontFamily=Comic Sans MS;fontSize=15;startFill=0;startSize=6;endSize=6;strokeWidth=1;fontColor=#666666;" edge="1" parent="1" source="S7qlVdXXwg5bewVFXKOm-84" target="S7qlVdXXwg5bewVFXKOm-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S7qlVdXXwg5bewVFXKOm-84" value="&lt;span&gt;5小时内有8000W点击，每秒大于4500个请求&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;shadow=1;glass=1;labelBackgroundColor=none;sketch=1;fontFamily=Comic Sans MS;fontSize=15;strokeWidth=1;fillColor=#f5f5f5;align=center;verticalAlign=middle;strokeColor=#666666;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2418" y="182" width="158" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="S7qlVdXXwg5bewVFXKOm-89" value="" style="edgeStyle=none;sketch=1;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;dashed=1;fontFamily=Comic Sans MS;fontSize=15;startFill=0;startSize=6;endSize=6;strokeWidth=1;fontColor=#666666;" edge="1" parent="1" source="S7qlVdXXwg5bewVFXKOm-86" target="S7qlVdXXwg5bewVFXKOm-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S7qlVdXXwg5bewVFXKOm-86" value="&lt;span&gt;请求有可能集中访问，所以访问峰值是平均数的3~4倍（经验值）&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;shadow=1;glass=1;labelBackgroundColor=none;sketch=1;fontFamily=Comic Sans MS;fontSize=15;strokeWidth=1;fillColor=#f5f5f5;align=center;verticalAlign=middle;strokeColor=#666666;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2675" y="182" width="158" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="S7qlVdXXwg5bewVFXKOm-88" value="&lt;span&gt;4500*4=18000&lt;br&gt;每秒需要支撑18000个请求&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;shadow=1;glass=1;labelBackgroundColor=none;sketch=1;fontFamily=Comic Sans MS;fontSize=15;strokeWidth=1;fillColor=#f5f5f5;align=center;verticalAlign=middle;strokeColor=#666666;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2926" y="186" width="158" height="79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
