@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T16:03:12.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="hkwPKkFJOwbkrqE4Sjwf" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T05:40:13.621Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="zE0cYW6AGzxd_3LEHQ9i" version="14.8.0" type="github">
   <diagram id="YUDJF-B7T9SWEaPQvbh9" name="Page-1">
     <mxGraphModel dx="1422" dy="839" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1138,6 +1138,50 @@
         </mxCell>
         <mxCell id="l75y9oXwlMvh9T1f_pYU-206" value="没有被引用的对象直接回收，依然存活的对象放入Survivor区" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;dashed=1;sketch=1;fontFamily=Verdana;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="4791" y="1314" width="187" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="l75y9oXwlMvh9T1f_pYU-207" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_discovery_service;rounded=0;shadow=0;glass=1;sketch=1;fontFamily=Verdana;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="4725" y="240" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="l75y9oXwlMvh9T1f_pYU-208" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.oms.config_assessment;rounded=0;glass=1;sketch=1;fontFamily=Verdana;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="4727" y="390" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="l75y9oXwlMvh9T1f_pYU-234" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elastic_load_balancing;fillColor=#dae8fc;rounded=0;shadow=0;glass=1;sketch=1;fontFamily=Verdana;fontSize=13;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="4888" y="240" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="l75y9oXwlMvh9T1f_pYU-237" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#dae8fc;shape=mxgraph.mscae.enterprise.monitor_running_apps;rounded=0;glass=1;sketch=1;fontFamily=Verdana;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="5056" y="390" width="90" height="86.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l75y9oXwlMvh9T1f_pYU-238" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#dae8fc;rounded=0;shadow=0;glass=1;sketch=1;fontFamily=Verdana;fontSize=13;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="5062.75" y="236" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="l75y9oXwlMvh9T1f_pYU-239" value="Circuit-Board" style="strokeColor=#6c8ebf;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontSize=12;whiteSpace=wrap;spacingBottom=2;glass=1;dashed=1;sketch=1;fontFamily=Verdana;fillColor=#dae8fc;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4894.5" y="390" width="77.5" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="l75y9oXwlMvh9T1f_pYU-240" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.circuit_board;part=1;" vertex="1" parent="l75y9oXwlMvh9T1f_pYU-239">
+          <mxGeometry x="0.5" width="50" height="45" relative="1" as="geometry">
+            <mxPoint x="-25" y="12.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l75y9oXwlMvh9T1f_pYU-242" value="&lt;font style=&quot;font-size: 22px&quot;&gt;服务发现&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;glass=1;dashed=1;sketch=1;fontFamily=Verdana;fontColor=#66B2FF;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4715.25" y="337" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l75y9oXwlMvh9T1f_pYU-243" value="&lt;font style=&quot;font-size: 22px&quot;&gt;配置中心&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;glass=1;dashed=1;sketch=1;fontFamily=Verdana;fontColor=#66B2FF;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4715.25" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l75y9oXwlMvh9T1f_pYU-244" value="&lt;span style=&quot;font-size: 22px&quot;&gt;负载均衡&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;glass=1;dashed=1;sketch=1;fontFamily=Verdana;fontColor=#66B2FF;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4878" y="338" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l75y9oXwlMvh9T1f_pYU-245" value="&lt;span style=&quot;font-size: 22px&quot;&gt;熔断降级&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;glass=1;dashed=1;sketch=1;fontFamily=Verdana;fontColor=#66B2FF;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4883.25" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l75y9oXwlMvh9T1f_pYU-246" value="&lt;span style=&quot;font-size: 22px&quot;&gt;熔断降级&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;glass=1;dashed=1;sketch=1;fontFamily=Verdana;fontColor=#66B2FF;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4883.25" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l75y9oXwlMvh9T1f_pYU-247" value="&lt;span style=&quot;font-size: 22px&quot;&gt;服务监控&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;glass=1;dashed=1;sketch=1;fontFamily=Verdana;fontColor=#66B2FF;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5062.75" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l75y9oXwlMvh9T1f_pYU-248" value="&lt;span style=&quot;font-size: 22px&quot;&gt;服务网关&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;glass=1;dashed=1;sketch=1;fontFamily=Verdana;fontColor=#66B2FF;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5062.75" y="340" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
