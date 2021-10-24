@@ -128,10 +128,10 @@ English | [简体中文](#)
 🌌 著作作品
 
 1. [2020年出版《Spring Cloud Alibaba微服务原理与实战》](https://item.jd.com/12848452.html)
-   [![img](https://mic-blob-bucket.oss-cn-beijing.aliyuncs.com/c11d945cd9351817.jpg)](https://img12.360buyimg.com/n1/jfs/t1/133668/24/19237/235998/5fcf2adbEaba0e24f/c11d945cd9351817.jpg)
+    ![img](https://mic-blob-bucket.oss-cn-beijing.aliyuncs.com/c11d945cd9351817-20211024212319693-20211024212325882.jpg)
 2. [2021年出版《Java并发编程深度解析与实战》](https://item.jd.com/12971665.html)
 
-[![img](https://mic-blob-bucket.oss-cn-beijing.aliyuncs.com/5c9303318a52c860.jpg)](https://img10.360buyimg.com/n1/jfs/t1/174959/38/25083/96413/6163fb65E885de8a3/5c9303318a52c860.jpg)
+ ![img](https://mic-blob-bucket.oss-cn-beijing.aliyuncs.com/5c9303318a52c860-20211024212345101.jpg)
 
 ⛅️ 开源项目及随书代码
 
