@@ -2,12 +2,18 @@ English | [简体中文](#)
 
 <p align="center"><img width="350" src="README.assets/1566299350462.png"></p>
 
-[![license](https://img.shields.io/apm/l/vim-mode.svg?style=flat-square)](https://github.com/2227324689/ToBeBetter/blob/master/LICENSE) [![issues](https://img.shields.io/bitbucket/issues-raw/2227324689/ToBeBetter.svg?style=flat-square)](https://github.com/2227324689/ToBeBetter/issues) [![constract us](https://img.shields.io/badge/contract%20us-%E5%AE%98%E7%BD%91-brightgreen.svg?style=flat-square)](https://www.gupaoedu.com) [![origin](https://img.shields.io/badge/origin-%E5%92%95%E6%B3%A1%E5%AD%A6%E9%99%A2-yellowgreen.svg?style=flat-square)](https://www.gupaoedu.com) [![blog](https://img.shields.io/badge/blog-%E5%8D%9A%E5%AE%A2-orange.svg?style=flat-square)](https://istio.tech) [![author](https://img.shields.io/badge/author-Mic-blue.svg?style=flat-square)](#) [![ToBeBetter](https://img.shields.io/badge/linked-ToBeBetter-red.svg?style=flat-square)](#) ![hits](http://hits.dwyl.io/ToBeBetter/ToBeBetter.svg?style=flat-square) [![community](https://img.shields.io/badge/community-%E6%8A%80%E6%9C%AF%E7%A4%BE%E5%8C%BA-lightgrey.svg?style=flat-square)](https://gper.club)
+[![license](https://img.shields.io/apm/l/vim-mode.svg?style=flat-square)](https://github.com/2227324689/ToBeBetter/blob/master/LICENSE) [![issues](https://img.shields.io/bitbucket/issues-raw/2227324689/ToBeBetter.svg?style=flat-square)](https://github.com/2227324689/ToBeBetter/issues) [![constract us](https://img.shields.io/badge/contract%20us-%E5%AE%98%E7%BD%91-brightgreen.svg?style=flat-square)](https://www.gupaoedu.com) [![origin](https://img.shields.io/badge/origin-%E5%92%95%E6%B3%A1%E5%AD%A6%E9%99%A2-yellowgreen.svg?style=flat-square)](https://www.gupaoedu.com) [![blog](https://img.shields.io/badge/blog-%E5%8D%9A%E5%AE%A2-orange.svg?style=flat-square)](https://istio.tech) [![author](https://img.shields.io/badge/author-Mic-blue.svg?style=flat-square)](#) [![ToBeBetter](https://img.shields.io/badge/linked-ToBeBetter-red.svg?style=flat-square)](#) <a title="Hits" target="_blank" href="https://github.com/2227324689/ToBeBetter"><img src="https://mic-blob-bucket.oss-cn-beijing.aliyuncs.com/hits.svg"></a> [![community](https://img.shields.io/badge/community-%E6%8A%80%E6%9C%AF%E7%A4%BE%E5%8C%BA-lightgrey.svg?style=flat-square)](https://gper.club)
 
 
 <h2 align="center">Java高级面试真题分析指南</h2>
 <p align="center" style="color:rgb(240,132,0)"><b>咕泡学院-Mic</b></p>
 "一看就懂，一学就会，一面试就懵逼"。 面试过程中，遇到大部分问题的状态是:"这个问题，我好像在那篇博客上看到过"，绞尽脑汁也想不出来。回家用度娘一查，“卧槽，这么简单”。被面试官打击之后，总觉得要做点啥才能安抚一下内心的疼痛感以及自尊心被碾压的那种痛楚。所以面试有一个好处，能够让人产生至少一周热情高涨的学习欲望，这种欲望会促使你去买几本书、买几套视频。那时候的整个人的状态是充满正能量、充满斗志的(就算有个美女躺在你身边，也能做到无动于衷)。
+
+
+
+
+
+
 
 新书到了，沐浴焚香，抱着非常虔诚的心态打开这本能够改写自己命运的书籍开始认真拜读。“第一章，嗯，不错，还看得懂。第二章，有点难度，勉勉强强，第三章，不错，就只有两个地方不懂：这也不懂，那也不懂”。到了看书的时候才发现，自己原来是不失眠的。也只有到了看书的时候才会发现，自己的技术基础没有想象中那么好。合上书本之后，脑袋一团浆糊
 
@@ -110,5 +116,44 @@ English | [简体中文](#)
 * 对于每一个求职者，你倾向于考察它哪方面的能力
 * 如果你有招聘要求，请贴出你对于招聘的人员的考核要求
 
-# 联系我们
+# 作者信息
+
+**🍀个人简介**
+
+1. 13年开发&系统架构经验。
+2. 曾任职于平安付、挖财，担任技术专家/业务架构师。
+3. 目前是一名创业者，5年创业生涯。
+4. 5年教研教学经验，对高并发、分布式体系有非常深度的研究。
+
+🌌 著作作品
+
+1. [2020年出版《Spring Cloud Alibaba微服务原理与实战》](https://item.jd.com/12848452.html)
+   [![img](https://mic-blob-bucket.oss-cn-beijing.aliyuncs.com/c11d945cd9351817.jpg)](https://img12.360buyimg.com/n1/jfs/t1/133668/24/19237/235998/5fcf2adbEaba0e24f/c11d945cd9351817.jpg)
+2. [2021年出版《Java并发编程深度解析与实战》](https://item.jd.com/12971665.html)
+
+[![img](https://mic-blob-bucket.oss-cn-beijing.aliyuncs.com/5c9303318a52c860.jpg)](https://img10.360buyimg.com/n1/jfs/t1/174959/38/25083/96413/6163fb65E885de8a3/5c9303318a52c860.jpg)
+
+⛅️ 开源项目及随书代码
+
+- GitHub: https://github.com/2227324689
+- Gitee: https://gitee.com/mic112
+- 个人博客: https://istio.tech
+- 公众号: 跟着Mic学架构
+
+![qrcode_for_gh_2ca1c20d4f6c_258](https://mic-blob-bucket.oss-cn-beijing.aliyuncs.com/qrcode_for_gh_2ca1c20d4f6c_258.jpg)
+
+🔑 职业生涯
+
+- 2009年5月，在上海浦东，入职第一家公司做电子政务行业，半年时间薪资涨幅50%。
+- 2010年8月，作为技术合作伙伴进入创业公司，同样是电子政务领域，8个月时间为公司创造190W销售额。
+- 2011年9月，进入鸿冠信息做外包，外派到电信负责号百商旅酒店业务，担任项目经理，管理8个人的技术团队。
+- 2013年4月，入职中国平安集团下子公司平安支付，负责《壹钱包》理财业务开发，这份工作是我职业生涯的转折点，接触了更复杂的架构和技术、以及金融类的业务。3个月时间，把壹钱包核心业务链路梳理清晰，并形成产线运维手册。解决售后问题处理慢的问题，售后问题处理效率提升80%以上。
+- 2015年3月，入职上海挖财，负责《挖财宝》理财方向支付体系、账户体系的建设和维护，搭建理财营销体系，为运营活动提供高效可动态配置化的营销服务。
+- 2017年3月，开始创业，作为合伙人创立咕泡教育。
+
+🌏 联系方式
+
+- QQ： 2227324689
+- 微信： mic4096
+- 邮箱：[2227324689@qq.com](mailto:2227324689@qq.com)
 
